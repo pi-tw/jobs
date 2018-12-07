@@ -20,6 +20,8 @@
 * [生活問答 https://iask.tw](https://iask.tw)
 * [比薪水 https://salary.tw](https://salary.tw)
 * [面試趣 https://interview.tw](https://interview.tw)
+* [挖工作 https://wajob.cc](https://wajob.cc)
+* [履歷幫幫忙 https://helpresu.me](https://helpresu.me)
 
 我們沒有改變世界的理想,我們只想照顧好身邊的每個人,期待您的加入
 更多資訊可以參考
