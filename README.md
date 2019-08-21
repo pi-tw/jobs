@@ -20,6 +20,30 @@
 - 公司電腦設備、個人課程進修補助，我們盡可能幫助你在工作上持續前進。
 - 年度全額補助身體健康檢查，我們也盡可能幫助你的生命能繼續走下去。
 
+
+## 我們的技術棧
+
+- Language
+  - PHP、Python
+- Framework
+  - Laravel、Scrapy
+- Database
+  - MongoDB
+- Search Service
+  - Elasticsearch
+- Cache/In-momery
+  - Memcached、Redis
+- Web Service
+  - Nginx、Pagespeed、Varnish
+- Queue
+  - Kafka、RabbitMQ
+- DevOps
+  - Linux(Ubuntu)、Docker、Drone
+- Utils
+  - Git、Gogs
+- Cloud Service
+  - GCP、Vultr
+
 ## 公司介紹
 圓周律資訊成立於2012,主要以自營網站為主,目前營運的主要網站有
 
